@@ -1,0 +1,1 @@
+# ava-async-test-with-sinon

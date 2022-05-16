@@ -1,0 +1,24 @@
+{
+  "name": "ava-async-test-with-sinon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test:parallel": "ava index_parallel.test.mjs",
+    "test:serial": "ava index_serial.test.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kubosho/ava-async-test-with-sinon.git"
+  },
+  "author": "kubosho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kubosho/ava-async-test-with-sinon/issues"
+  },
+  "homepage": "https://github.com/kubosho/ava-async-test-with-sinon#readme",
+  "devDependencies": {
+    "ava": "^4.2.0",
+    "sinon": "^14.0.0"
+  }
+}
