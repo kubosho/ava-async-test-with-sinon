@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test:parallel": "ava index_parallel.test.mjs",
+    "test:parallel_without_async": "ava index_parallel.test.mjs",
     "test:serial": "ava index_serial.test.mjs"
   },
   "repository": {
