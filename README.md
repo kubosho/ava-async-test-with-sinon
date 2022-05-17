@@ -1,4 +1,4 @@
-# ava-async-test-with-sinon
+# ava-with-sinon
 
 ## Run parallel test
 
